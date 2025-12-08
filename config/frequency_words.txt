@@ -4,46 +4,18 @@
 +热点
 +事件
 
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
 美国
 印度
 韩国
++热点
+!政治
 
-芯片
-光刻机
+国内
+!娱乐
+!政治
+!军事
+!名企
+!名人
 
 科技
 
